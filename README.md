@@ -1,4 +1,4 @@
-# 100 Days CSharp
+﻿# 100 Days CSharp
 ###### Learning C# for the next 100 Days
 **Main Target:** _To be a superhuman in C# for in the next 100Days_
 
@@ -23,3 +23,6 @@
 
 - Link to same repository [Repo](https://github.com/en1tan/100DaysCSharpTutorial)
 ---
+
+<!-- Emoji taken from https://emojipedia.org/hacker-cat/ -->
+Made by 🐱‍💻.
